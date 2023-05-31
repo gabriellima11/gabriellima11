@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Ferreira+Lima;I'm+17+years+old;I+am+from+Juiz+de+Fora,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Ferreira+Lima;I'm+18+years+old;I+am+from+Juiz+de+Fora,+MG;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Hello World!
 <b>-Aspirante em se tornar um dev, busco sempre estudar e procurar ser a minha melhor versão para que eu possa alcançar meu objetivo de ser um FullStack🚀!</b>
