@@ -7,11 +7,10 @@
 <b>-Aspirante em se tornar um dev, busco sempre estudar e procurar ser a minha melhor versão para que eu possa alcançar meu objetivo de ser um FullStack🚀!</b>
 
 <br>
-<div align="center">
+<div align="center" display="inline_block">
 
-  <a href="https://github.com/gabriellima11">
-   <img align="center width="49%" height="195px"" src="https://github-readme-stats.vercel.app/api?username=gabriellima11&show_icons=true&theme=dark&line_height=30" alt="Gabriel's github stats"/>
-  </a>
+  ![Gabriel Stats](https://github-readme-stats.vercel.app/api?username=gabriellima11&show_icons=true&theme=transparent)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellima11&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
